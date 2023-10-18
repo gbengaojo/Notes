@@ -22,6 +22,7 @@ rather than traditional ones.
   + Specialization and Generalization
   
 ## 4.1 Subclasses, Superclasses, and Inheritance
+
 > Unfortunately, no standard terminology exists for these concepts, so we use
 > the most common terminology. (p. 109)
 
