@@ -9,4 +9,5 @@ Chapter 9 Relational Database Design by ER- and EER-to-Relational Mapping
 
 + **weak entity** -> entity types that _do not_ have key attributes of their own
 + **strong/regular/default entity** -> entity types that _do_ have key attributes
-
++ **partial key** -> the attribute that can uniquely identify weak entites that
+    _are related to the same owner entity_
