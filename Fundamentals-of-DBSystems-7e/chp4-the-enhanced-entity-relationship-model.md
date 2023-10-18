@@ -22,13 +22,19 @@ rather than traditional ones.
   + Specialization and Generalization
   
 ## 4.1 Subclasses, Superclasses, and Inheritance
+> Unfortunately, no standard terminology exists for these concepts, so we use
+> the most common terminology. (p. 109)
+
++ **type (in context of entity)** -> attributies and relationships
+
 The name of an entity type represents 2 things
 1) The type of entity itself
 2) The set or collection of said entity that exists in the database itself
-**type (in context of entity)** -> attributies and relationships
+
 E.g., entity type EMPLOYEE describes thetype of each employee entity, and also
 the entire set of EMPLOYEE entities in the database (ambiguous, I know).
-+ **subtype (subclass)** -> 
+
++ **subtype (subclass)** -> groupings of entities that belong to a "parent" entity.
+E.g., EMPLOYEE {SECRETARY, ENGINEER, MANAGER, etc} (see above EMPLOYEE example for more)
 
 ## 4.3 Constraints and Characteristics of Specialization and Generalization Hierarchies
-
