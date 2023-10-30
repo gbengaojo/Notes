@@ -9,7 +9,7 @@ Chapter 3.5 Weak Entity Types
 
 + **weak entity** -> entity types that _do not_ have key attributes of their own
     + represented using a doubled box
-    + **identifying or owner entity type** -> weak entity types must be identified
+    + **identifying/owner entity type** -> weak entity types must be identified
           by an association with a strong entity type, along with one of its
           attributes.
     + **identifying relationship** -> the association described above that ties a
